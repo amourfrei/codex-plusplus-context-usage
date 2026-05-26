@@ -1,0 +1,4 @@
+node_modules/
+.codexpp-dev-reload
+.DS_Store
+npm-debug.log*

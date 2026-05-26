@@ -1,0 +1,23 @@
+{
+  "id": "co.codexpp.context-usage",
+  "name": "Context Usage",
+  "version": "0.1.0",
+  "minRuntime": "0.1.6",
+  "githubRepo": "amourfrei/codex-plusplus-context-usage",
+  "description": "Shows context, 5-hour, and weekly usage in the composer with an optional compact suggestion.",
+  "author": {
+    "name": "amourfrei"
+  },
+  "homepage": "https://github.com/amourfrei/codex-plusplus-context-usage",
+  "tags": [
+    "ui",
+    "usage",
+    "composer"
+  ],
+  "scope": "both",
+  "main": "index.js",
+  "permissions": [
+    "ipc",
+    "filesystem"
+  ]
+}
